@@ -1,2 +1,2 @@
 # SystemUncompatible-nodejs
-SystemUncompatible Error Snippet for Node.js
+System Uncompatible Error Snippet for Node.js
